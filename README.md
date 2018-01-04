@@ -1,10 +1,5 @@
 # Private-Dock-Cloud
 This project's aim to create a private cloud, and then providing services like- SAAS, STAAS, IAAS. Operating System As A Service, using Docker. The programming language used is Python, and operating system used is RedHat Enterprise Linux.
-## Other Contributors
-This project was build in our B.Tech, following people contributed to this project:
-- [Pooja Chaudhary](https://www.linkedin.com/in/pooja-chaudhary-4ab165123/)
-- [Ravin Kumar](https://www.linkedin.com/in/ravinkumar21/)
-- [Shray Verma](https://www.linkedin.com/in/shray-verma-24b985bb/)
 
 This project is all about the formation of cloud over the RedHat Entreprise linux version 7 (RHEL 7 ) to provide the services like SaaS (Software as a service), STaaS ( Storage as a service), and OSaaS ( Operating System as a service ).
 
@@ -15,3 +10,12 @@ The idea behind creating this GUI application is that the user don’t have to p
 This application also includes one more cloud service called STaaS (Storage as a Service). The user having an account on PrivateDock is provided with a cloud storage for managing the user’s files as well as that created using the software.
 
 Docker is implemented for providing OSaaS (Operating System as a Service), and because of it's ability to use containers it will require less time for creating instances of an operating system.
+
+## Other Contributors
+This project was build in our B.Tech, following people contributed to this project:
+- [Pooja Chaudhary](https://www.linkedin.com/in/pooja-chaudhary-4ab165123/)
+- [Ravin Kumar](https://www.linkedin.com/in/ravinkumar21/)
+- [Shray Verma](https://www.linkedin.com/in/shray-verma-24b985bb/)
+
+### Working demonstration
+The working demonstration of Private Dock Cloud is available at [Youtube](https://www.youtube.com/watch?v=DksVTPSwE2A).
