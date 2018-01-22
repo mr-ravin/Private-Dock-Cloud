@@ -10,7 +10,7 @@ The idea behind creating this GUI application is that the user don’t have to p
 This application also includes one more cloud service called STaaS (Storage as a Service). The user having an account on PrivateDock is provided with a cloud storage for managing the user’s files as well as that created using the software.
 
 Docker is implemented for providing OSaaS (Operating System as a Service), and because of it's ability to use containers it will require less time for creating instances of an operating system.
-### Presentation Private Dock Cloud
+## Presentation Private Dock Cloud
 
 [![Working Demonstration](https://github.com/mr-ravin/Private-Dock-Cloud/blob/master/PrivateDockCloud.gif)](https://www.youtube.com/watch?v=DksVTPSwE2A)
 
