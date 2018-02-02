@@ -24,3 +24,5 @@ This project was build in our B.Tech, following people contributed to this proje
 - [Pooja Chaudhary](https://www.linkedin.com/in/pooja-chaudhary-4ab165123/)
 - [Ravin Kumar](https://www.linkedin.com/in/ravinkumar21/)
 - [Shray Verma](https://www.linkedin.com/in/shray-verma-24b985bb/)
+
+#### Note: Private Dock cloud can only be used freely for Academic Purposes after providing citation or deserved credits to this work.For other purposes, Permission is required from Mr. Ravin Kumar Email_id: mr.ravin_kumar@hotmail.com .
