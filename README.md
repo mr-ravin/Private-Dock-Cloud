@@ -22,8 +22,7 @@ The working demonstration of Private Dock Cloud is available at [Youtube](https:
 ## Other Contributors
 This project was build in our B.Tech, following people contributed to this project:
 - [Pooja Chaudhary](https://www.linkedin.com/in/pooja-chaudhary-4ab165123/)
-- [Ravin Kumar](https://www.linkedin.com/in/ravinkumar21/)
+- [Ravin Kumar](https://mr-ravin.github.io)
 - [Shray Verma](https://www.linkedin.com/in/shray-verma-24b985bb/)
 
-#### Note: Private Dock cloud can only be used freely after providing citation or deserved credits to this work. For other purposes, Permission is required from Mr. Ravin Kumar, and contributors listed above. 
-#### Email_id: mr.ravin_kumar@hotmail.com .
+#### Note: This work can be used freely for academic research work and individual non-commercial projects, please do provide citation and/or deserved credits to this work. For Industrial and commercial use permission is required from the Authors.
