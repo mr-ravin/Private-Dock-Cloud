@@ -25,4 +25,4 @@ This project was build in our B.Tech, following people contributed to this proje
 - [Ravin Kumar](https://mr-ravin.github.io)
 - [Shray Verma](https://www.linkedin.com/in/shray-verma-24b985bb/)
 
-#### Note: This work can be used freely for academic research work and individual non-commercial projects, please do provide citation and/or deserved credits to this work. For Industrial and commercial use permission is required from the Authors.
+##### Note: This work can be used freely after providing citation and/or deserved credits to this work. Please use it at your own risk !!!
